@@ -18,3 +18,4 @@ artifacts:
     - '**/*'
   base-directory: 'dist/MYSHOP*'
   discard-paths: yes
+
